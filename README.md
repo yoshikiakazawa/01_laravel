@@ -9,7 +9,7 @@
 **Docker ビルド**
 
 1. ```bash
-   git clone git@github.com:yoshikiakazawa/rest_rs.git
+   git clone
    ```
 2. DockerDesktop アプリを立ち上げる
 3. ```bash
